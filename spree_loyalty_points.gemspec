@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_loyalty_points'
-  s.version     = '3.0.9'
+  s.version     = '3.0.7'
   s.summary     = 'spree_loyalty_points'
   s.description = 'spree_loyalty_points'
   s.required_ruby_version = '>= 2.1.0'
